@@ -1,0 +1,14 @@
+E:\database\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe
+E:\database\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.pdb
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.Properties.Resources.resources
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.exe
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.pdb
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.UI.MainAreaUI.resources
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.UI.ZoneTypeEntryUI.resources
+E:\database\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe.config
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.UI.VisitorEntryInformationUI.resources
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.UI.ZoneSpecificVisitorNumberUI.resources
+E:\database\FairManagementApp\FairManagementApp\obj\x86\Debug\FairManagementApp.UI.ZoneWiseVisitorNumberUI.resources
